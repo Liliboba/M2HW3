@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="2362dp"
+    android:height="2362dp"
+    android:viewportWidth="2362"
+    android:viewportHeight="2362">
+    <path
+        android:fillColor="#000"
+        android:strokeColor="#000"
+        android:strokeWidth="1"
+        android:strokeMiterLimit="100"
+        android:name="Треугольник 1"
+        android:pathData="m1362.4 1732.8c-91.7 119 -271.2 119 -362.8 0l-1144.5 -1485.9c-116 -150.6 -8.6 -368.7 181.4 -368.7h2289.1c190.1 0 297.4 218.2 181.4 368.7l-1144.5 1485.9z" />
+</vector>
